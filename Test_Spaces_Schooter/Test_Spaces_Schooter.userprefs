@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Network\MyNetworkManager.cs" Line="44" Column="51" />
+      <File FileName="Assets\Scripts\Main.cs" Line="81" Column="49" />
+      <File FileName="Assets\Scripts\Network\MyNetworkHUD.cs" Line="33" Column="29" />
+      <File FileName="..\..\NetworkManagerHUD.cs" Line="62" Column="24" />
+      <File FileName="Assets\Scripts\Player.cs" Line="54" Column="58" />
+      <File FileName="Assets\Scripts\Network\NetworkPlayer.cs" Line="184" Column="14" />
+      <File FileName="Assets\Scripts\Network\Network_enemy.cs" Line="134" Column="9" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="137" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
